@@ -1,1 +1,1 @@
-This is my first repo
+OOP 2022 repo, for laboratory solutions
